@@ -1,5 +1,4 @@
 # Financial Forecasting Using Quantum Machine Learning
-
 ## 📌 Project Overview
 This project explores the use of **Quantum Machine Learning (QML)** for **financial forecasting**, focusing on two applications:  
 1. **Stock Price Prediction** using a Quantum Long Short-Term Memory (QLSTM) model.  
@@ -45,10 +44,9 @@ Financial_Forecasting_QML/
 ---
 
 ## 📈 Results
-- **Stock Price Prediction (QLSTM):**  
+- **Stock Price Prediction (QLSTM):**
   - Training loss reduced to 0.0002, test loss to 0.0001.  
   - Predicted stock price trends closely followed actual Apple stock movements.  
-
 - **Credit Card Fraud Detection (VQC):**  
   - Achieved ~86% accuracy, F1 = 0.86, AUROC = 0.85.  
   - Compared to Random Forest (95% accuracy, F1 = 0.95, AUROC = 0.95).  
